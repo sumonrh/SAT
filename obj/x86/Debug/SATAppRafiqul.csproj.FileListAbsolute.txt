@@ -1,0 +1,13 @@
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\bin\x86\Debug\SATAppRafiqul.exe.config
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\SATAppRafiqul.csprojResolveAssemblyReference.cache
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\ActivitySelection.baml
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\LearningWindow.baml
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\Properties\QuizWindow.baml
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\QuizWindow.baml
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\App.baml
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\ActivitySelection.g.cs
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\LearningWindow.g.cs
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\Properties\QuizWindow.g.cs
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\QuizWindow.g.cs
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\App.g.cs
+C:\Users\Rafiqul\Documents\Visual Studio 2013\Projects\SATAppRafiqul\SATAppRafiqul\obj\x86\Debug\SATAppRafiqul_MarkupCompile.cache
